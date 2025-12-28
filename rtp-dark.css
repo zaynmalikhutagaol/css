@@ -8,11 +8,11 @@
     --bg-color: #000000;
     --text-first: #000000;
     --text-second: #000000;
-    --first-color: #ff12de;
+    --first-color: #bd00fb;
     --second-color: #040404;
     --third-color: #7e0000;
     --fourth-color: #790000;
-    --fifth-color: #ff12de;
+    --fifth-color: #bd00fb;
     --sixth-color: #000000;
     --g1: #ffff;
     --g2: #ffff;
@@ -202,7 +202,7 @@ body {
 }
 
 .icon-prov {
-    background: linear-gradient(0deg, #ff12de 0%, #0a0a0a 100%);
+    background: linear-gradient(0deg, #bd00fb 0%, #0a0a0a 100%);
     display: flex;
     position: relative;
     overflow: auto !important;
@@ -234,7 +234,7 @@ body {
 }
 
 .btn-login {
-    background: linear-gradient(0deg, #ff12de 0%, #000000 100%);
+    background: linear-gradient(0deg, #bd00fb 0%, #000000 100%);
     padding: 0.4rem;
     color: #f1f1f1;
     border: none;
@@ -246,7 +246,7 @@ body {
 }
 
 .btn-daftar {
-    background: linear-gradient(0deg, #ff12de 0%, #000000 100%);
+    background: linear-gradient(0deg, #bd00fb 0%, #000000 100%);
     padding: 0.4rem;
     color: #ffffff;
     border: none;
@@ -277,7 +277,7 @@ body {
 }
 
 .item-nav-bottom:hover {
-    background: linear-gradient(0deg, #ff12de 0%, #000000 100%);
+    background: linear-gradient(0deg, #bd00fb 0%, #000000 100%);
     cursor: pointer;
 }
 
@@ -377,5 +377,6 @@ body {
         max-width: 1100px !important;
     }
 }
+
 
 

@@ -234,7 +234,7 @@ body {
 }
 
 .btn-login {
-    background: linear-gradient(0deg, #f90000 0%, #000000 100%);
+    background: linear-gradient(0deg, #ff12de 0%, #000000 100%);
     padding: 0.4rem;
     color: #f1f1f1;
     border: none;
@@ -377,3 +377,4 @@ body {
         max-width: 1100px !important;
     }
 }
+

@@ -8,11 +8,11 @@
     --bg-color: #000000;
     --text-first: #000000;
     --text-second: #000000;
-    --first-color: #ff0000;
+    --first-color: #ff12de;
     --second-color: #040404;
     --third-color: #7e0000;
     --fourth-color: #790000;
-    --fifth-color: #ff0000;
+    --fifth-color: #ff12de;
     --sixth-color: #000000;
     --g1: #ffff;
     --g2: #ffff;
@@ -202,7 +202,7 @@ body {
 }
 
 .icon-prov {
-    background: linear-gradient(0deg, #ff0000 0%, #0a0a0a 100%);
+    background: linear-gradient(0deg, #ff12de 0%, #0a0a0a 100%);
     display: flex;
     position: relative;
     overflow: auto !important;
@@ -246,7 +246,7 @@ body {
 }
 
 .btn-daftar {
-    background: linear-gradient(0deg, #ff0000 0%, #000000 100%);
+    background: linear-gradient(0deg, #ff12de 0%, #000000 100%);
     padding: 0.4rem;
     color: #ffffff;
     border: none;
@@ -277,7 +277,7 @@ body {
 }
 
 .item-nav-bottom:hover {
-    background: linear-gradient(0deg, #ff0000 0%, #000000 100%);
+    background: linear-gradient(0deg, #ff12de 0%, #000000 100%);
     cursor: pointer;
 }
 
@@ -377,4 +377,5 @@ body {
         max-width: 1100px !important;
     }
 }
+
 

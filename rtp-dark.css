@@ -193,7 +193,7 @@ body {
 }
 
 .running-text {
-    background:#4b1289;
+    background: #4b1289;
     font-weight: 500;
     text-transform: uppercase;
     font-size: 1rem;
@@ -377,6 +377,7 @@ body {
         max-width: 1100px !important;
     }
 }
+
 
 
 

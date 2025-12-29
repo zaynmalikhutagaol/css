@@ -2517,7 +2517,7 @@ textarea.form-control-lg {
     line-height: 1.5;
     color: #212529;
     background-color: #fff;
-    background-image: url("https://i.ibb.co/0pyNwLmy/2323EEEE.webp") var(--bg-color);
+    background-image: url("https://i.ibb.co/0pyNwLmy/2323EEEE.webp") var (--bg-color);
     background-repeat: no-repeat;
     background-position: right .75rem center;
     background-size: 16px 12px;
@@ -12636,3 +12636,4 @@ fieldset:disabled .btn {
 
 
 /*# sourceMappingURL=bootstrap.min.css.map */
+

@@ -383,7 +383,7 @@
 }
 
 .search-button {
-    background: #ff0000;
+    background: c600dd;
     border: 0px;
     color: white;
     border-top-right-radius: 5px;
@@ -903,5 +903,6 @@ p {
     }
 
 }
+
 
 
